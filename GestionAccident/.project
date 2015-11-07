@@ -33,4 +33,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>WebContent/WEB-INF/faces-config.xml</name>
+			<type>1</type>
+			<location>C:/Users/toshiba/Desktop/java web applications/Tp3/WebContent/WEB-INF/faces-config.xml</location>
+		</link>
+	</linkedResources>
 </projectDescription>

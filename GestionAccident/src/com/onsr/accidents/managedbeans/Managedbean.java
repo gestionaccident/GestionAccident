@@ -2,22 +2,11 @@ package com.onsr.accidents.managedbeans;
 
 import java.io.Serializable;
 
-
-
-
-
-
-
-
 import javax.faces.application.FacesMessage;
 
+import com.onsr.accidents.business.*;
+import com.onsr.accidents.dao.*;
 import org.primefaces.context.RequestContext;
-
-import com.onsr.accidents.business.Description_route;
-import com.onsr.accidents.business.Route;
-import com.onsr.accidents.business.caractéristiques_route;
-import com.onsr.accidents.business.facteurs_naturels;
-import com.onsr.accidents.dao.ajouter_route;
 
 
 
